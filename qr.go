@@ -10,7 +10,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/SermoDigital/qr/internal/coding"
+	"github.com/sermodigital/qr/internal/coding"
 )
 
 // A Level denotes a QR error correction level.

@@ -8,8 +8,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/SermoDigital/qr/internal/gf256"
-	"github.com/SermoDigital/qr/internal/libqrencode"
+	"github.com/sermodigital/qr/internal/gf256"
+	"github.com/sermodigital/qr/internal/libqrencode"
 )
 
 func test(t *testing.T, v Version, l Level, text ...Encoding) bool {
